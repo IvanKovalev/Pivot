@@ -1,0 +1,55 @@
+.pivot-table {
+    display: inline-block;
+    margin-top: 20px;
+    border-collapse: collapse;
+    font-family: Arial;
+    font-size: 10px;
+    border : 2px solid blue;
+}
+.pivot-table .table_cell{
+    text-align: right;
+}
+.border {
+    border-right: 2px solid blue !important;
+}
+.pivot-table tbody {
+    border : 2px solid blue;
+}
+.pivot-table .total{
+    border-right: 2px solid blue !important;
+    min-width: 250px;
+}
+
+.headerBorderBottom {
+    border-bottom: 2px solid blue !important;
+}
+
+.pivot-table .table_rowsList,
+.pivot-table .table_rowList_last{
+    border-bottom: 2px solid grey !important;
+    text-align: left;
+}
+
+.table_rowList_last{
+   border-right: 2px solid blue !important;
+}
+
+.pivot-table tbody td,
+.pivot-table thead th,
+.pivot-table tbody th {
+    border: 1px solid grey;
+    padding: 3px 4px 3px;
+    min-width: 30px;
+}
+.pivot-table tbody th,
+.pivot-table .total{
+    text-align: left;
+    vertical-align: top;
+}
+
+.pivot-table thead th{
+    text-align: left;
+}
+.pivot-table tbody td {
+    text-align: right;
+}

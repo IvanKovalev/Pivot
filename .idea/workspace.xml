@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="944195d1-801b-435a-8034-06a7596656ef" name="Default" comment="" />
+    <ignored path="Pivot Grid.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Pivot Grid" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="613">
+              <caret line="68" column="2" selection-start-line="68" selection-start-column="2" selection-end-line="68" selection-end-column="2" />
+              <folding>
+                <element signature="e#4943#5075#0" expanded="false" />
+                <element signature="e#5091#5257#0" expanded="false" />
+                <element signature="e#5272#5471#0" expanded="false" />
+                <element signature="e#5487#5655#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="structure.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/structure.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="212" column="7" selection-start-line="212" selection-start-column="7" selection-end-line="212" selection-end-column="7" />
+              <folding>
+                <element signature="n#!!block;n#getUniqueList#0;n#!!block;n#pivotTable#0" expanded="false" />
+                <element signature="n#!!block;n#sumElem#0;n#!!block;n#pivotTable#0" expanded="false" />
+                <element signature="n#!!block;n#copyKeyLists#0;n#!!block;n#pivotTable#0" expanded="false" />
+                <element signature="n#!!block;n#copyObject#0;n#!!block;n#pivotTable#0" expanded="false" />
+                <element signature="n#!!doc;n#createElem#0;n#!!block;n#pivotTable#0" expanded="false" />
+                <element signature="n#!!block;n#getColSpan#0;n#!!block;n#pivotTable#0" expanded="false" />
+                <element signature="n#!!block;n#drawRow#0;n#!!block;n#pivotTable#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="asd.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/asd.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="css.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/css.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="tsconfig.json" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/someData.php" />
+        <option value="$PROJECT_DIR$/Index.php" />
+        <option value="$PROJECT_DIR$/PivoteModel.js" />
+        <option value="$PROJECT_DIR$/normilize.css" />
+        <option value="$PROJECT_DIR$/data.js" />
+        <option value="$PROJECT_DIR$/get Data.js" />
+        <option value="$PROJECT_DIR$/start.html" />
+        <option value="$PROJECT_DIR$/data.json" />
+        <option value="$PROJECT_DIR$/Pivot1.html" />
+        <option value="$PROJECT_DIR$/pivot2.html" />
+        <option value="$PROJECT_DIR$/Index.html" />
+        <option value="$PROJECT_DIR$/render.js" />
+        <option value="$PROJECT_DIR$/pivot1/structure.js" />
+        <option value="$PROJECT_DIR$/pivot5/pivot5.html" />
+        <option value="$PROJECT_DIR$/pivot/pivot4.html" />
+        <option value="$PROJECT_DIR$/Test.html" />
+        <option value="$PROJECT_DIR$/getData.js" />
+        <option value="$PROJECT_DIR$/test.html" />
+        <option value="$PROJECT_DIR$/structure.js" />
+        <option value="$PROJECT_DIR$/app/getFieldList.js" />
+        <option value="$PROJECT_DIR$/app/list.js" />
+        <option value="$PROJECT_DIR$/pivot0/pivot.js" />
+        <option value="$PROJECT_DIR$/pivot2/pivot2.js" />
+        <option value="$PROJECT_DIR$/pivot3/pivot3.js" />
+        <option value="$PROJECT_DIR$/pivot4/pivot4.js" />
+        <option value="$PROJECT_DIR$/pivot3/pivot3.html" />
+        <option value="$PROJECT_DIR$/pivot4/pivot4.html" />
+        <option value="$PROJECT_DIR$/css.css" />
+        <option value="$PROJECT_DIR$/pivot2/pivot2.html" />
+        <option value="$PROJECT_DIR$/app/program.js" />
+        <option value="$PROJECT_DIR$/app/data.js" />
+        <option value="$PROJECT_DIR$/pivot1/Pivot1.html" />
+        <option value="$PROJECT_DIR$/pivot0/pivot.html" />
+        <option value="$PROJECT_DIR$/pivot1/Pivot1.js" />
+        <option value="$PROJECT_DIR$/app/header.js" />
+        <option value="$PROJECT_DIR$/app/1.html" />
+        <option value="$PROJECT_DIR$/app/asdas.html" />
+        <option value="$PROJECT_DIR$/app/asd.css" />
+        <option value="$PROJECT_DIR$/app/Index.html" />
+        <option value="$PROJECT_DIR$/app/Index.js" />
+        <option value="$PROJECT_DIR$/app/asd.js" />
+        <option value="$PROJECT_DIR$/app/structure.js" />
+        <option value="$PROJECT_DIR$/app/css.css" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pivot Grid" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pivot Grid" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pivot Grid" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="jsx.switch.disabled" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ivank\PhpstormProjects\Pivot Grid\pivot0" />
+      <recent name="C:\Users\ivank\PhpstormProjects\Pivot Grid\pivot1" />
+      <recent name="C:\Users\ivank\PhpstormProjects\Pivot Grid\pivot2" />
+      <recent name="C:\Users\ivank\PhpstormProjects\Pivot Grid\pivot3" />
+      <recent name="C:\Users\ivank\PhpstormProjects\Pivot Grid\pivot4" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ivank\PhpstormProjects\Pivot Grid\pivot0" />
+      <recent name="C:\Users\ivank\PhpstormProjects\Pivot Grid\pivot9" />
+      <recent name="C:\Users\ivank\PhpstormProjects\Pivot Grid\pivot8" />
+      <recent name="C:\Users\ivank\PhpstormProjects\Pivot Grid\pivot7" />
+      <recent name="C:\Users\ivank\PhpstormProjects\Pivot Grid\pivot6" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="944195d1-801b-435a-8034-06a7596656ef" name="Default" comment="" />
+      <created>1463997869844</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1463997869844</updated>
+      <workItem from="1463997872048" duration="26990000" />
+      <workItem from="1464086085430" duration="455000" />
+      <workItem from="1464086853748" duration="74918000" />
+      <workItem from="1464340092224" duration="171338000" />
+      <workItem from="1465194431016" duration="35099000" />
+      <workItem from="1465279638182" duration="103695000" />
+      <workItem from="1465798015740" duration="87894000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="500389000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1663113" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32893288" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29329005" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3215859" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32893288" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="78" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Index.html" />
+    <entry file="file://$PROJECT_DIR$/css.css" />
+    <entry file="file://$PROJECT_DIR$/Index.html" />
+    <entry file="file://$PROJECT_DIR$/css.css" />
+    <entry file="file://$PROJECT_DIR$/someData.php" />
+    <entry file="file://$PROJECT_DIR$/tsconfig.json" />
+    <entry file="file://$PROJECT_DIR$/data.json" />
+    <entry file="file://$PROJECT_DIR$/Index.php" />
+    <entry file="file://$PROJECT_DIR$/PivoteModel.js" />
+    <entry file="file://$PROJECT_DIR$/normilize.css" />
+    <entry file="file://$PROJECT_DIR$/start.html" />
+    <entry file="file://$PROJECT_DIR$/bootstrap.css" />
+    <entry file="file://$PROJECT_DIR$/data.json" />
+    <entry file="file://$PROJECT_DIR$/Index.html" />
+    <entry file="file://$PROJECT_DIR$/pivot1/structure.js" />
+    <entry file="file://$PROJECT_DIR$/pivot5/pivot5.js" />
+    <entry file="file://$PROJECT_DIR$/pivot6/pivot6.js" />
+    <entry file="file://$PROJECT_DIR$/pivot7/pivot7.html" />
+    <entry file="file://$PROJECT_DIR$/pivot8/pivot8.html" />
+    <entry file="file://$PROJECT_DIR$/pivot9/pivot9.html" />
+    <entry file="file://$PROJECT_DIR$/pivot5/pivot5.html" />
+    <entry file="file://$PROJECT_DIR$/getData.js" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/tables.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="217" column="16" selection-start-line="217" selection-start-column="16" selection-end-line="217" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.html" />
+    <entry file="file://$PROJECT_DIR$/app/getFieldList.js" />
+    <entry file="file://$PROJECT_DIR$/app/list.js" />
+    <entry file="file://$PROJECT_DIR$/pivot3/pivot3.js" />
+    <entry file="file://$PROJECT_DIR$/pivot4/pivot4.js" />
+    <entry file="file://$PROJECT_DIR$/structure.js" />
+    <entry file="file://$PROJECT_DIR$/pivot3/pivot3.html" />
+    <entry file="file://$PROJECT_DIR$/pivot4/pivot4.html" />
+    <entry file="file://$PROJECT_DIR$/pivot2/pivot2.html" />
+    <entry file="file://$PROJECT_DIR$/css.css" />
+    <entry file="file://$PROJECT_DIR$/app/program.js" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="513" column="3" selection-start-line="513" selection-start-column="3" selection-end-line="513" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/data.js" />
+    <entry file="file://$PROJECT_DIR$/pivot2/pivot2.js" />
+    <entry file="file://$PROJECT_DIR$/pivot0/pivot.js" />
+    <entry file="file://$PROJECT_DIR$/pivot0/pivot.html" />
+    <entry file="file://$PROJECT_DIR$/pivot1/Pivot1.html" />
+    <entry file="file://$PROJECT_DIR$/pivot1/Pivot1.js" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/HTML5.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="917" column="3" selection-start-line="917" selection-start-column="3" selection-end-line="917" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/header.js" />
+    <entry file="file://$PROJECT_DIR$/app/1.html" />
+    <entry file="file://$PROJECT_DIR$/app/asdas.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="837">
+          <caret line="52" column="8" selection-start-line="52" selection-start-column="8" selection-end-line="52" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/asd.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/asd.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="613">
+          <caret line="68" column="2" selection-start-line="68" selection-start-column="2" selection-end-line="68" selection-end-column="2" />
+          <folding>
+            <element signature="e#4943#5075#0" expanded="false" />
+            <element signature="e#5091#5257#0" expanded="false" />
+            <element signature="e#5272#5471#0" expanded="false" />
+            <element signature="e#5487#5655#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/css.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/structure.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="212" column="7" selection-start-line="212" selection-start-column="7" selection-end-line="212" selection-end-column="7" />
+          <folding>
+            <element signature="n#!!block;n#getUniqueList#0;n#!!block;n#pivotTable#0" expanded="false" />
+            <element signature="n#!!block;n#sumElem#0;n#!!block;n#pivotTable#0" expanded="false" />
+            <element signature="n#!!block;n#copyKeyLists#0;n#!!block;n#pivotTable#0" expanded="false" />
+            <element signature="n#!!block;n#copyObject#0;n#!!block;n#pivotTable#0" expanded="false" />
+            <element signature="n#!!doc;n#createElem#0;n#!!block;n#pivotTable#0" expanded="false" />
+            <element signature="n#!!block;n#getColSpan#0;n#!!block;n#pivotTable#0" expanded="false" />
+            <element signature="n#!!block;n#drawRow#0;n#!!block;n#pivotTable#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
