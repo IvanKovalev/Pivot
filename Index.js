@@ -45,60 +45,23 @@ var data = [
 ];
 var config = {
     rows: [
-        "Region"
+        "Item",
+        "Units"
     ],
     columns: [
-        "Item"
+
+        "Region",
+        "Rep",
+        "Date",
+        "Cost"
+
     ],
     values:[
      {name: "Total",measures: "Sum"}
     ]
 };
-var config1 = {
-    rows: [
-        "Region",
-        "Rep"
-    ],
-    columns: [
-        "Item",
-        "Date"
-    ],
-    values:[
-        {name: "Total",measures: "Sum"}
-    ]
-};
-var config2= {
-    rows: [
-        "Region",
-        "Cost"
-    ],
-    columns: [
-        "Rep",
-        "Item",
-        "Units",
-        "Date"
-    ],
-    values:[
-        {name: "Total",measures: "Sum"}
-    ]
-};
-var config3 = {
-    rows: [
-        "Region"
-    ],
-    columns: [
-        "Rep",
-        "Item",
-        "Units"
 
-    ],
-    values:[
-        {name: "Total",measures: "Sum"}
-    ]
-};
 
 new pivotTable(config, data,document.getElementById("pivot1"));
-new pivotTable(config1, data,document.getElementById("pivot2"));
-new pivotTable(config3, data,document.getElementById("pivot4"));
- new pivotTable(config2, data,document.getElementById("pivot3"));
+
 
