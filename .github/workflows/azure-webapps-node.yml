@@ -19,7 +19,7 @@ jobs:
       - name: Connect to AWS Lightsail, extract file and delete the file
         uses: appleboy/ssh-action@v0.1.7
         with:
-          host: "44.211.199.96"
+          host: "54.172.22.16"
           username: ubuntu
           key: ${{ secrets.PRIVATE }}
           passphrase: ""
