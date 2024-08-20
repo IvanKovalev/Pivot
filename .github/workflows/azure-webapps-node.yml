@@ -20,7 +20,7 @@ jobs:
         with:
           host: "44.211.199.96"
           username: ubuntu
-          key: ${{ secrets.privat }}
+          key: ${{ secrets.PRIVAT }}
           passphrase: ""
           port: 22
           script: |
